@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea
+.idea/.gitignore
+.idea/Youcation_Django.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+# Settings
+Youcation_Django/setting_info.json
+.idea/codeStyles/codeStyleConfig.xml
