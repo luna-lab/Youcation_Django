@@ -14,5 +14,9 @@ REST API 구현을 위한 Django Rest Framework 기반 Back-End 입니다.
 파이썬 종속성 관리(설치)
 > pip install -r requirements.txt
 
+### 프로젝트 관리
+로컬 / 개발
+
+
 ### 진행 상황
 19/08/11 - 프로젝트  생성
