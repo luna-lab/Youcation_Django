@@ -16,7 +16,10 @@ REST API 구현을 위한 Django Rest Framework 기반 Back-End 입니다.
 
 ### 프로젝트 관리
 로컬 / 개발
+> --settings=Youcation_Django.settings.
 
+배포
+> --settings=Youcation_Django.settings.
 
 ### 진행 상황
 19/08/11 - 프로젝트  생성
