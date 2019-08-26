@@ -10,6 +10,10 @@ INSTALLED_APPS += [
 
 ]
 
+# JWT Token
+JWT_AUTH['JWT_SECRET_KEY'] = SECRET_KEY
+JWT_AUTH['JWT_AUTH_HEADER_PREFIX'] = 'Bearer'
+
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost"
