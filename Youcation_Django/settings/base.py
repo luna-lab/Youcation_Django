@@ -11,7 +11,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    'authenfication.apps.AuthenficationConfig',
+    'authentication.apps.AuthenticationConfig',
     'userset.apps.UsersetConfig',
     'festivalapi.apps.FestivalapiConfig',
     'relaychannel.apps.RelaychannelConfig',
