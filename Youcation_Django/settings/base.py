@@ -13,9 +13,15 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'authenfication.apps.AuthenficationConfig',
     'userset.apps.UsersetConfig',
+    'festivalapi.apps.FestivalapiConfig',
+    'relaychannel.apps.RelaychannelConfig',
+    'townplaceapi.apps.TownplaceapiConfig',
+    'youthclub.apps.YouthclubConfig',
     'rest_framework',
     'rest_framework.authtoken',
 ]
+
+# 'channels'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
